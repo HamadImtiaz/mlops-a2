@@ -1,0 +1,5 @@
+outs:
+- md5: 6e8972d2174316980d44189cf8e35723
+  size: 224
+  hash: md5
+  path: dawn_articles.csv

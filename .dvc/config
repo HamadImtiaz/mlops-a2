@@ -1,0 +1,5 @@
+[core]
+    no_scm = True
+    remote = myremote
+['remote "myremote"']
+    url = https://drive.google.com/drive/folders/18QPIvCumfBWXq_FVsn9OSXPBILQHI4Vm?usp=drive_link
